@@ -1,0 +1,186 @@
+/* Custom animations */
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes slideIn {
+    from { transform: translateY(-20px); opacity: 0; }
+    to { transform: translateY(0); opacity: 1; }
+}
+
+/* Custom utility classes */
+.animate-fade-in {
+    animation: fadeIn 0.3s ease-in-out;
+}
+
+.animate-slide-in {
+    animation: slideIn 0.3s ease-in-out;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background: #666;
+}
+
+/* Custom focus styles */
+.custom-focus:focus {
+    outline: none;
+    box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.5);
+}
+
+/* Custom transitions */
+.custom-transition {
+    transition: all 0.2s ease-in-out;
+}
+
+/* File tree styles */
+.file-tree {
+    font-family: 'Inter', monospace;
+}
+
+.file-tree-item {
+    padding: 4px 8px;
+    cursor: pointer;
+    border-radius: 4px;
+    transition: background-color 0.2s;
+}
+
+.file-tree-item:hover {
+    background-color: rgba(59, 130, 246, 0.1);
+}
+
+.file-tree-item.selected {
+    background-color: rgba(59, 130, 246, 0.2);
+}
+
+/* Code block styles */
+.code-block {
+    font-family: 'Fira Code', monospace;
+    background-color: #1a1a1a;
+    color: #e0e0e0;
+    padding: 1rem;
+    border-radius: 6px;
+    overflow-x: auto;
+}
+
+.code-block pre {
+    margin: 0;
+}
+
+/* Analysis result cards */
+.analysis-card {
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.analysis-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+/* Progress bars */
+.progress-bar {
+    height: 4px;
+    background-color: #e5e7eb;
+    border-radius: 2px;
+    overflow: hidden;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    background-color: #3b82f6;
+    transition: width 0.3s ease-in-out;
+}
+
+/* Status indicators */
+.status-dot {
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 6px;
+}
+
+.status-dot.success { background-color: #10b981; }
+.status-dot.warning { background-color: #f59e0b; }
+.status-dot.error { background-color: #ef4444; }
+
+/* Toast notifications */
+.toast {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    padding: 12px 24px;
+    border-radius: 6px;
+    background: white;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    animation: slideIn 0.3s ease-in-out;
+}
+
+.toast.success { border-left: 4px solid #10b981; }
+.toast.warning { border-left: 4px solid #f59e0b; }
+.toast.error { border-left: 4px solid #ef4444; }
+
+/* Loading spinner */
+.spinner {
+    width: 24px;
+    height: 24px;
+    border: 3px solid #e5e7eb;
+    border-top-color: #3b82f6;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+}
+
+@keyframes spin {
+    to { transform: rotate(360deg); }
+}
+
+/* Loading state */
+#loadingState {
+    display: none;
+}
+
+#loadingState.visible {
+    display: flex;
+}
+
+/* Analysis results */
+#analysisResults {
+    display: none;
+}
+
+#analysisResults.visible {
+    display: block;
+}
+
+/* Loading animation */
+.loading i {
+    animation: spin 1s linear infinite;
+}
+
+/* Responsive adjustments */
+@media (max-width: 640px) {
+    .toast {
+        left: 16px;
+        right: 16px;
+        bottom: 16px;
+    }
+}
