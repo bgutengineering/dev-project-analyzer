@@ -1,0 +1,148 @@
+2025-06-11 11:02:39,925 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:04:00,996 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:04:02,173 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://172.17.0.2:8000
+2025-06-11 11:04:02,173 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-06-11 11:04:02,177 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-06-11 11:04:02,329 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:04:03,080 - werkzeug - WARNING -  * Debugger is active!
+2025-06-11 11:04:03,080 - werkzeug - INFO -  * Debugger PIN: 902-786-882
+2025-06-11 11:04:04,602 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:04:18,147 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:04:18] "GET / HTTP/1.1" 200 -
+2025-06-11 11:04:18,498 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:04:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:04:18,660 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:04:18,797 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:04:35,253 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:07:26,170 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:07:26,170 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:07:26,180 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:07:27,009 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-06-11 11:07:27,142 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:07:27,848 - werkzeug - WARNING -  * Debugger is active!
+2025-06-11 11:07:27,848 - werkzeug - INFO -  * Debugger PIN: 902-786-882
+2025-06-11 11:07:55,298 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:07:55,299 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:07:55,305 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:07:56,222 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-06-11 11:07:56,357 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:07:57,056 - werkzeug - WARNING -  * Debugger is active!
+2025-06-11 11:07:57,056 - werkzeug - INFO -  * Debugger PIN: 902-786-882
+2025-06-11 11:08:08,742 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:08:08] "GET / HTTP/1.1" 200 -
+2025-06-11 11:08:08,754 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:08:08] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:08:08,756 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:08:08] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:08:08,980 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:08:08] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:08:09,030 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:08:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:08:09,111 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:08:09,284 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:08:44,306 - config - INFO - Starting analysis of project: /project/sandbox/user-workspace/ui
+2025-06-11 11:08:44,342 - config - ERROR - Failed to get metrics for /project/sandbox/user-workspace/ui/static/style.css: SyntaxError at line: 122
+2025-06-11 11:08:44,549 - config - ERROR - Failed to get metrics for /project/sandbox/user-workspace/ui/templates/index.html: SyntaxError at line: 1
+2025-06-11 11:08:44,556 - config - ERROR - Failed to analyze web files: 'ProjectAnalyzer' object has no attribute '_aggregate_issues'
+2025-06-11 11:08:45,192 - config - ERROR - Failed to get metrics for /project/sandbox/user-workspace/ui/static/script.js: SyntaxError at line: 2
+2025-06-11 11:08:45,198 - config - ERROR - Failed to analyze javascript files: 'ProjectAnalyzer' object has no attribute '_aggregate_issues'
+2025-06-11 11:08:45,239 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:08:45] "POST /api/analyze HTTP/1.1" 200 -
+2025-06-11 11:09:05,840 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:09:35,485 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/analyzer.py', reloading
+2025-06-11 11:09:35,486 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/analyzer.py', reloading
+2025-06-11 11:09:35,490 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/analyzer.py', reloading
+2025-06-11 11:09:36,629 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-06-11 11:09:36,759 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:09:37,418 - werkzeug - WARNING -  * Debugger is active!
+2025-06-11 11:09:37,418 - werkzeug - INFO -  * Debugger PIN: 902-786-882
+2025-06-11 11:09:47,560 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:09:47] "GET / HTTP/1.1" 200 -
+2025-06-11 11:09:47,572 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:09:47] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:09:47,573 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:09:47] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:09:47,761 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:09:47] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:09:47,775 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:09:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:09:48,259 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:09:48,499 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:10:08,502 - config - INFO - Starting analysis of project: /project/sandbox/user-workspace/ui
+2025-06-11 11:10:08,553 - config - ERROR - Failed to get metrics for /project/sandbox/user-workspace/ui/static/style.css: SyntaxError at line: 122
+2025-06-11 11:10:08,731 - config - ERROR - Failed to get metrics for /project/sandbox/user-workspace/ui/templates/index.html: SyntaxError at line: 1
+2025-06-11 11:10:08,739 - config - WARNING - No valid metrics found for web files
+2025-06-11 11:10:09,346 - config - ERROR - Failed to get metrics for /project/sandbox/user-workspace/ui/static/script.js: SyntaxError at line: 2
+2025-06-11 11:10:09,351 - config - WARNING - No valid metrics found for javascript files
+2025-06-11 11:10:09,385 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:10:09] "POST /api/analyze HTTP/1.1" 200 -
+2025-06-11 11:10:28,835 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:11:09,702 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/analyzer.py', reloading
+2025-06-11 11:11:09,703 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/analyzer.py', reloading
+2025-06-11 11:11:09,707 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/analyzer.py', reloading
+2025-06-11 11:11:10,040 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-06-11 11:11:10,174 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:11:10,875 - werkzeug - WARNING -  * Debugger is active!
+2025-06-11 11:11:10,875 - werkzeug - INFO -  * Debugger PIN: 902-786-882
+2025-06-11 11:11:18,665 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:11:18] "GET / HTTP/1.1" 200 -
+2025-06-11 11:11:18,681 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:11:18] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:11:18,682 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:11:18] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:11:18,885 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:11:18] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:11:18,903 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:11:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:11:19,397 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:11:19,585 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:11:41,000 - config - INFO - Starting analysis of project: /project/sandbox/user-workspace/ui
+2025-06-11 11:11:41,080 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:11:41] "POST /api/analyze HTTP/1.1" 200 -
+2025-06-11 11:11:55,881 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:12:48,881 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:12:48] "GET / HTTP/1.1" 200 -
+2025-06-11 11:12:48,891 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:12:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:12:48,897 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:12:48] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:12:49,097 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:12:49] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:12:49,122 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:12:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:12:50,399 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:12:50,658 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:13:12,143 - config - INFO - Starting analysis of project: /project/sandbox/user-workspace/ui
+2025-06-11 11:13:12,199 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:13:12] "POST /api/analyze HTTP/1.1" 200 -
+2025-06-11 11:13:39,055 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:13:57,238 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:13:57,238 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:13:57,246 - werkzeug - INFO -  * Detected change in '/project/sandbox/user-workspace/main.py', reloading
+2025-06-11 11:13:57,631 - werkzeug - INFO -  * Restarting with watchdog (inotify)
+2025-06-11 11:13:57,769 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:13:58,457 - werkzeug - WARNING -  * Debugger is active!
+2025-06-11 11:13:58,457 - werkzeug - INFO -  * Debugger PIN: 902-786-882
+2025-06-11 11:14:13,815 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:14:13] "GET / HTTP/1.1" 200 -
+2025-06-11 11:14:13,829 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:14:13] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:14:13,833 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:14:13] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:14:14,060 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:14:14] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:14:14,083 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:14:14] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:14:15,430 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:14:15,594 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:14:38,959 - config - INFO - Starting analysis of project: /project/sandbox/user-workspace/ui
+2025-06-11 11:14:39,104 - config - INFO - Analysis results: {'summary': {'total_files': 0, 'languages': [], 'code_stats': {'total_loc': 669, 'total_issues': 2, 'avg_complexity': 0.0, 'avg_maintainability': 100.0}}, 'metrics': {'web': {'files': 2, 'total_loc': 339, 'avg_complexity': 0.0, 'avg_maintainability': 100.0, 'duplicates': [], 'issues': ['Low comment ratio: 9.49%']}, 'javascript': {'files': 1, 'total_loc': 330, 'avg_complexity': 0.0, 'avg_maintainability': 100.0, 'duplicates': [], 'issues': ['Low comment ratio: 7.55%']}}, 'timestamp': '2025-06-11T11:14:38.994942'}
+2025-06-11 11:14:39,105 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:14:39] "POST /api/analyze HTTP/1.1" 200 -
+2025-06-11 11:15:02,085 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:17:22,031 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:22] "GET / HTTP/1.1" 200 -
+2025-06-11 11:17:22,043 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:22] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:17:22,044 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:22] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:17:22,261 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:22] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:17:22,278 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:22] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:17:23,222 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:17:23,476 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:17:35,497 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:17:59,709 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:59] "GET / HTTP/1.1" 200 -
+2025-06-11 11:17:59,735 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:59] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:17:59,740 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:17:59] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:17:59,810 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:17:59,944 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:18:00,014 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:18:00] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:18:00,047 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:18:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:18:26,504 - config - INFO - Starting analysis of project: /project/sandbox/user-workspace/ui
+2025-06-11 11:18:26,614 - config - INFO - Analysis results: {'summary': {'total_files': 0, 'languages': [], 'code_stats': {'total_loc': 633, 'total_issues': 2, 'avg_complexity': 0.0, 'avg_maintainability': 100.0}}, 'metrics': {'web': {'files': 2, 'total_loc': 339, 'avg_complexity': 0.0, 'avg_maintainability': 100.0, 'duplicates': [], 'issues': ['Low comment ratio: 9.49%']}, 'javascript': {'files': 1, 'total_loc': 294, 'avg_complexity': 0.0, 'avg_maintainability': 100.0, 'duplicates': [], 'issues': ['Low comment ratio: 5.98%']}}, 'timestamp': '2025-06-11T11:18:26.533579'}
+2025-06-11 11:18:26,615 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:18:26] "POST /api/analyze HTTP/1.1" 200 -
+2025-06-11 11:18:48,426 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:19:31,939 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:19:31] "GET / HTTP/1.1" 200 -
+2025-06-11 11:19:31,953 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:19:31] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:19:31,955 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:19:31] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:19:32,153 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:19:32] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:19:32,181 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:19:32] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:19:32,892 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:19:33,079 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:19:55,324 - config - INFO - System initialized with: {'os': 'Linux', 'architecture': 'x86_64', 'processor': 'x86_64', 'python_version': '3.10.13'}
+2025-06-11 11:35:48,093 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:35:48] "GET / HTTP/1.1" 200 -
+2025-06-11 11:35:48,325 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:35:48] "GET /static/script.js HTTP/1.1" 200 -
+2025-06-11 11:35:48,346 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:35:48] "GET /static/style.css HTTP/1.1" 200 -
+2025-06-11 11:35:49,061 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:35:49] "GET /api/files?path=. HTTP/1.1" 200 -
+2025-06-11 11:35:49,171 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:35:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-11 11:36:10,613 - config - INFO - Starting analysis of project: /project/sandbox/user-workspace/ui
+2025-06-11 11:36:10,662 - config - INFO - Analysis results: {'summary': {'total_files': 0, 'languages': [], 'code_stats': {'total_loc': 656, 'total_issues': 1, 'avg_complexity': 0.0, 'avg_maintainability': 100.0}}, 'metrics': {'web': {'files': 2, 'total_loc': 362, 'avg_complexity': 0.0, 'avg_maintainability': 100.0, 'duplicates': [], 'issues': []}, 'javascript': {'files': 1, 'total_loc': 294, 'avg_complexity': 0.0, 'avg_maintainability': 100.0, 'duplicates': [], 'issues': ['Low comment ratio: 5.98%']}}, 'timestamp': '2025-06-11T11:36:10.644057'}
+2025-06-11 11:36:10,663 - werkzeug - INFO - 127.0.0.1 - - [11/Jun/2025 11:36:10] "POST /api/analyze HTTP/1.1" 200 -
